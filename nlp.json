@@ -1,0 +1,132 @@
+[
+  {
+    "question": "What is Natural Language Processing (NLP)?",
+    "category": "Natural Language Processing",
+    "keywords": [
+      "nlp",
+      "natural language processing",
+      "language",
+      "text processing"
+    ],
+    "definition": "Natural Language Processing (NLP) is a branch of Artificial Intelligence that enables computers to understand, analyze, interpret, and generate human language. It combines computer science, linguistics, and machine learning to process text and speech.",
+    "history": "NLP began in the 1950s with rule-based systems. Modern NLP uses machine learning and deep learning models such as Transformers, BERT, and GPT.",
+    "types": [
+      "Rule-Based NLP",
+      "Statistical NLP",
+      "Machine Learning NLP",
+      "Deep Learning NLP"
+    ],
+    "applications": [
+      "Chatbots",
+      "Machine Translation",
+      "Voice Assistants",
+      "Spam Detection",
+      "Sentiment Analysis",
+      "Text Summarization",
+      "Speech Recognition"
+    ],
+    "advantages": [
+      "Automates text analysis",
+      "Improves customer support",
+      "Supports multiple languages",
+      "Processes large amounts of text quickly"
+    ],
+    "disadvantages": [
+      "Language ambiguity",
+      "Requires large datasets",
+      "Context understanding is challenging"
+    ],
+    "examples": [
+      "ChatGPT",
+      "Google Translate",
+      "Amazon Alexa",
+      "Apple Siri"
+    ],
+    "future": "NLP will continue to improve language understanding, multilingual communication, virtual assistants, and AI-powered search engines.",
+    "related_topics": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Deep Learning",
+      "Generative AI"
+    ]
+  },
+  {
+    "question": "What is Tokenization?",
+    "category": "Natural Language Processing",
+    "keywords": [
+      "tokenization",
+      "tokens",
+      "words",
+      "text"
+    ],
+    "definition": "Tokenization is the process of splitting text into smaller units called tokens. These tokens can be words, sentences, or subwords that help NLP models understand text.",
+    "history": "Tokenization has always been the first preprocessing step in NLP and has evolved with transformer-based models.",
+    "types": [
+      "Word Tokenization",
+      "Sentence Tokenization",
+      "Subword Tokenization"
+    ],
+    "applications": [
+      "Chatbots",
+      "Machine Translation",
+      "Search Engines",
+      "Text Classification"
+    ],
+    "advantages": [
+      "Simplifies text processing",
+      "Improves NLP model accuracy"
+    ],
+    "disadvantages": [
+      "Different languages require different tokenization methods"
+    ],
+    "examples": [
+      "Splitting 'Artificial Intelligence is amazing' into words"
+    ],
+    "future": "Advanced tokenization techniques improve language understanding in modern AI models.",
+    "related_topics": [
+      "Preprocessing",
+      "NLP",
+      "Text Mining"
+    ]
+  },
+  {
+    "question": "What is Sentiment Analysis?",
+    "category": "Natural Language Processing",
+    "keywords": [
+      "sentiment",
+      "emotion",
+      "text analysis",
+      "opinion mining"
+    ],
+    "definition": "Sentiment Analysis is an NLP technique used to identify whether text expresses positive, negative, or neutral emotions.",
+    "history": "Sentiment Analysis became popular with the rise of social media and online reviews.",
+    "types": [
+      "Positive",
+      "Negative",
+      "Neutral"
+    ],
+    "applications": [
+      "Customer Feedback",
+      "Product Reviews",
+      "Social Media Monitoring",
+      "Brand Analysis"
+    ],
+    "advantages": [
+      "Analyzes customer opinions",
+      "Supports business decisions"
+    ],
+    "disadvantages": [
+      "Cannot always detect sarcasm or complex emotions"
+    ],
+    "examples": [
+      "Movie Review Analysis",
+      "Twitter Sentiment Detection"
+    ],
+    "future": "Future sentiment analysis systems will better understand context, sarcasm, and emotions.",
+    "related_topics": [
+      "Opinion Mining",
+      "Machine Learning",
+      "Artificial Intelligence"
+    ]
+  }
+]

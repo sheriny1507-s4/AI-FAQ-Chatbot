@@ -1,0 +1,137 @@
+[
+  {
+    "question": "What is Computer Vision?",
+    "category": "Computer Vision",
+    "keywords": [
+      "computer vision",
+      "cv",
+      "image processing",
+      "vision"
+    ],
+    "definition": "Computer Vision is a branch of Artificial Intelligence that enables computers to interpret, analyze, and understand images and videos. It allows machines to recognize objects, faces, text, and scenes similar to human vision.",
+    "history": "Computer Vision research began in the 1960s. It became highly successful after the introduction of deep learning and Convolutional Neural Networks (CNNs).",
+    "types": [
+      "Image Classification",
+      "Object Detection",
+      "Image Segmentation",
+      "Face Recognition",
+      "Pose Estimation"
+    ],
+    "applications": [
+      "Self-driving Cars",
+      "Medical Image Analysis",
+      "Face Recognition",
+      "Quality Inspection",
+      "Security Surveillance",
+      "OCR",
+      "Agriculture"
+    ],
+    "advantages": [
+      "Automates visual inspection",
+      "High accuracy",
+      "Real-time processing",
+      "Reduces human effort"
+    ],
+    "disadvantages": [
+      "Requires large image datasets",
+      "Needs high computing power",
+      "Sensitive to lighting conditions"
+    ],
+    "examples": [
+      "Face Unlock",
+      "Google Lens",
+      "Tesla Vision",
+      "Medical X-ray Detection"
+    ],
+    "future": "Computer Vision will become increasingly important in healthcare, robotics, autonomous vehicles, smart cities, and industrial automation.",
+    "related_topics": [
+      "Artificial Intelligence",
+      "Deep Learning",
+      "CNN",
+      "Image Processing"
+    ]
+  },
+  {
+    "question": "What is Image Classification?",
+    "category": "Computer Vision",
+    "keywords": [
+      "image classification",
+      "classification",
+      "cnn"
+    ],
+    "definition": "Image Classification is the task of assigning a label to an image based on its contents. The AI model learns patterns from thousands of labeled images.",
+    "history": "Image classification achieved major breakthroughs with AlexNet winning the ImageNet competition in 2012.",
+    "types": [
+      "Binary Classification",
+      "Multi-class Classification",
+      "Multi-label Classification"
+    ],
+    "applications": [
+      "Medical Diagnosis",
+      "Animal Recognition",
+      "Plant Disease Detection",
+      "Product Recognition"
+    ],
+    "advantages": [
+      "Fast image recognition",
+      "High accuracy",
+      "Useful in automation"
+    ],
+    "disadvantages": [
+      "Requires labeled training data",
+      "Sensitive to image quality"
+    ],
+    "examples": [
+      "Cat vs Dog Classification",
+      "Flower Species Recognition"
+    ],
+    "future": "Image classification models continue to improve with Vision Transformers and large vision models.",
+    "related_topics": [
+      "CNN",
+      "Deep Learning",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "question": "What is Object Detection?",
+    "category": "Computer Vision",
+    "keywords": [
+      "object detection",
+      "bounding box",
+      "yolo",
+      "ssd"
+    ],
+    "definition": "Object Detection identifies and locates multiple objects within an image or video by drawing bounding boxes around each detected object.",
+    "history": "Modern object detection improved rapidly with algorithms such as YOLO, SSD, and Faster R-CNN.",
+    "types": [
+      "One-stage Detection",
+      "Two-stage Detection"
+    ],
+    "applications": [
+      "Autonomous Vehicles",
+      "Traffic Monitoring",
+      "Retail Analytics",
+      "Security Cameras"
+    ],
+    "advantages": [
+      "Detects multiple objects",
+      "Works in real time",
+      "High accuracy"
+    ],
+    "disadvantages": [
+      "Computationally expensive",
+      "Needs powerful hardware"
+    ],
+    "examples": [
+      "YOLO",
+      "Faster R-CNN",
+      "SSD"
+    ],
+    "future": "Future object detection systems will provide faster, more accurate, and real-time detection for robotics and smart surveillance.",
+    "related_topics": [
+      "Computer Vision",
+      "CNN",
+      "Image Recognition"
+    ]
+  }
+]
