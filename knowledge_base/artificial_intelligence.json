@@ -1,0 +1,198 @@
+[{
+  "id": 1,
+  "category": "Artificial Intelligence",
+  "question": "What is Artificial Intelligence?",
+  "keywords": [
+    "AI",
+    "Artificial Intelligence",
+    "Define AI",
+    "Explain AI"
+  ],
+  "difficulty": "Beginner",
+
+  "definition": "Artificial Intelligence (AI) is a branch of computer science that enables machines to simulate human intelligence. AI systems can learn, reason, solve problems, understand language, recognize images, and make decisions.",
+
+  "history": "The term Artificial Intelligence was introduced by John McCarthy in 1956 during the Dartmouth Conference.",
+
+  "types": [
+    "Narrow AI",
+    "General AI",
+    "Super AI"
+  ],
+
+  "applications": [
+    "Healthcare",
+    "Banking",
+    "Education",
+    "Transportation",
+    "Agriculture",
+    "Cybersecurity"
+  ],
+
+  "advantages": [
+    "Automation",
+    "Accuracy",
+    "24/7 Availability",
+    "Faster Decision Making"
+  ],
+
+  "disadvantages": [
+    "High Development Cost",
+    "Job Displacement",
+    "Privacy Issues",
+    "Bias in Data"
+  ],
+
+  "examples": [
+    "ChatGPT",
+    "Google Assistant",
+    "Tesla Autopilot",
+    "Netflix Recommendation System"
+  ],
+
+  "future": "AI will continue transforming industries through intelligent automation, robotics, personalized healthcare, autonomous vehicles, and advanced scientific research.",
+
+  "related_topics": [
+    "Machine Learning",
+    "Deep Learning",
+    "Data Science"
+  ]
+},
+  {
+    "id": 2,
+    "category": "Artificial Intelligence",
+    "question": "Who invented Artificial Intelligence?",
+    "keywords": [
+      "Father of AI",
+      "Inventor of AI",
+      "John McCarthy",
+      "Who created AI"
+    ],
+    "difficulty": "Beginner",
+    "answer": "The term 'Artificial Intelligence' was introduced by John McCarthy in 1956 during the Dartmouth Summer Research Project. He is widely known as the Father of Artificial Intelligence. Along with Marvin Minsky, Allen Newell, Herbert Simon, and Claude Shannon, he helped establish AI as an academic field. Their work laid the foundation for modern AI research and development.",
+    "related_topics": [
+      "History of AI"
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Artificial Intelligence",
+    "question": "Why is Artificial Intelligence important?",
+    "keywords": [
+      "Importance of AI",
+      "Need for AI",
+      "Benefits of AI"
+    ],
+    "difficulty": "Beginner",
+    "answer": "Artificial Intelligence is important because it enables computers to automate repetitive tasks, analyze large volumes of data, make accurate predictions, and assist humans in making informed decisions. AI improves productivity, reduces human errors, saves time, and enhances customer experiences. It is transforming industries such as healthcare, finance, manufacturing, transportation, education, and entertainment.",
+    "related_topics": [
+      "Applications of AI"
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Artificial Intelligence",
+    "question": "What are the types of Artificial Intelligence?",
+    "keywords": [
+      "Types of AI",
+      "Different AI types",
+      "AI classification"
+    ],
+    "difficulty": "Beginner",
+    "answer": "Artificial Intelligence is commonly classified into three major types: Narrow AI, General AI, and Super AI. Narrow AI is designed to perform specific tasks such as voice assistants and recommendation systems. General AI refers to a machine capable of performing any intellectual task that a human can perform, although it does not yet exist. Super AI is a hypothetical form of intelligence that would surpass human intelligence in every aspect.",
+    "related_topics": [
+      "Narrow AI",
+      "General AI",
+      "Super AI"
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Artificial Intelligence",
+    "question": "What are the applications of Artificial Intelligence?",
+    "keywords": [
+      "Uses of AI",
+      "Applications of AI",
+      "AI examples"
+    ],
+    "difficulty": "Beginner",
+    "answer": "Artificial Intelligence is used in many industries. In healthcare it assists in disease diagnosis and medical imaging. In finance it detects fraud and predicts market trends. In education it provides personalized learning. In transportation it powers autonomous vehicles. AI is also used in robotics, agriculture, cybersecurity, e-commerce, customer support, gaming, entertainment, and smart home devices.",
+    "related_topics": [
+      "Healthcare AI",
+      "Robotics"
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Artificial Intelligence",
+    "question": "What are the advantages of Artificial Intelligence?",
+    "keywords": [
+      "Advantages of AI",
+      "Benefits of AI"
+    ],
+    "difficulty": "Beginner",
+    "answer": "The advantages of Artificial Intelligence include automation of repetitive tasks, improved accuracy, faster decision-making, reduced human errors, increased productivity, continuous 24/7 operation, enhanced customer service through chatbots, and the ability to analyze massive datasets efficiently.",
+    "related_topics": [
+      "Disadvantages of AI"
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Artificial Intelligence",
+    "question": "What are the disadvantages of Artificial Intelligence?",
+    "keywords": [
+      "Limitations of AI",
+      "Disadvantages of AI"
+    ],
+    "difficulty": "Beginner",
+    "answer": "Although AI provides many benefits, it also has limitations. These include high development costs, job displacement due to automation, ethical concerns, privacy issues, bias in AI models, dependence on data quality, and lack of human emotions and creativity. Responsible AI development is essential to minimize these challenges.",
+    "related_topics": [
+      "Ethics in AI"
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Artificial Intelligence",
+    "question": "What is the difference between Artificial Intelligence and Human Intelligence?",
+    "keywords": [
+      "AI vs Human Intelligence",
+      "Difference between AI and humans"
+    ],
+    "difficulty": "Intermediate",
+    "answer": "Artificial Intelligence is created by humans to perform specific tasks using algorithms and data, while human intelligence is natural and includes emotions, creativity, intuition, and common sense. AI can process vast amounts of data quickly and consistently, whereas humans excel at empathy, moral reasoning, and adapting to unfamiliar situations.",
+    "related_topics": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Artificial Intelligence",
+    "question": "What is the difference between Artificial Intelligence and Machine Learning?",
+    "keywords": [
+      "AI vs ML",
+      "Difference between AI and ML"
+    ],
+    "difficulty": "Intermediate",
+    "answer": "Artificial Intelligence is the broader field focused on creating intelligent systems that mimic human intelligence. Machine Learning is a subset of AI that enables computers to learn patterns from data and improve their performance without being explicitly programmed for every task. In simple terms, all Machine Learning is AI, but not all AI is Machine Learning.",
+    "related_topics": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Artificial Intelligence",
+    "question": "What is the future of Artificial Intelligence?",
+    "keywords": [
+      "Future of AI",
+      "AI future",
+      "Scope of AI"
+    ],
+    "difficulty": "Beginner",
+    "answer": "The future of Artificial Intelligence is expected to include smarter healthcare systems, autonomous vehicles, intelligent robots, personalized education, advanced cybersecurity, scientific discoveries, and more efficient businesses. As AI technology evolves, it will continue to transform industries while raising important discussions about ethics, privacy, transparency, and responsible use.",
+    "related_topics": [
+      "Generative AI",
+      "Robotics",
+      "Machine Learning"
+    ]
+  }
+]
