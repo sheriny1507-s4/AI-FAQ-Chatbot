@@ -138,28 +138,25 @@ The application will automatically open in your browser.
 
 ## 🏠 Home Page
 
-> Add screenshot here
+![Home Page](screenshots/home.png)
 
 ---
 
 ## 💬 Chat Interface
 
-> Add screenshot here
+![Chat Interface](screenshots/chat.png)
 
 ---
 
 ## 📊 Confidence Score
 
-> Add screenshot here
+![Confidence](screenshots/confidence.png)
 
 ---
 
 ## 💡 Quick Questions
 
-> Add screenshot here
-
----
-
+![Quick Questions](screenshots/quick_questions.png)
 # 💡 Future Enhancements
 
 - 🔊 Read Aloud (Text-to-Speech)
