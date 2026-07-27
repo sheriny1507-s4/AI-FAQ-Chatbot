@@ -136,7 +136,6 @@ The application will automatically open in your browser.
 
 # 📸 Screenshots
 
-# 📸 Screenshots
 
 ## 🏠 Home Page
 
@@ -159,6 +158,7 @@ The application will automatically open in your browser.
 ## 💡 Quick Questions
 
 ![Quick Questions](screenshots/quick_questions.png)
+!
 # 💡 Future Enhancements
 
 - 🔊 Read Aloud (Text-to-Speech)
